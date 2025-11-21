@@ -1,5 +1,5 @@
 // backend/controllers/productController.js
-import Product from "../models/productModel.js";
+import Product from "../models/ProductModel.js";
 
 /**
  * =========================================================
